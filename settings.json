@@ -1,0 +1,7 @@
+/* this is where we can add phonenumers and master codes that will always pass validation */
+{
+  "ACCOUNTS_PHONE": {
+    "ADMIN_NUMBERS": ["7208378019", "987654321"],
+    "MASTER_CODE": "1234"
+  }
+}
